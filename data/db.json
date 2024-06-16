@@ -1,0 +1,143 @@
+{
+    "dados": [
+        {
+            "titulo": "POLO",
+            "marca": "WolksWagen",
+            "preco": "78.058,00",
+            "descricao": "O Polo chega com linhas renovadas e faróis de LED, deixando-o ainda mais moderno e elegante. Com excelente desempenho e tecnologias inovadoras, o Polo certamente é a melhor opção do segmento Hatch.",
+            "imagem": "https://assets.volkswagen.com/is/image/volkswagenag/71-2294_still-polo-23-highline-tsi-at-5-8-frente-esquerda_prata-sirius_ambientada-1920x1080px?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTEyODAmaGVpPTcyMCZhbGlnbj0wLjAwLDAuMDAmYmZjPW9mZiY5ZjIy",
+            "link": "https://www.vw.com.br/pt/carros/polo.html"
+        },
+        {
+            "titulo": "Jetta GLI",
+            "marca": "WolksWagen",
+            "preco": "65.130,00",
+            "descricao": "O Jetta GLI é o sedã médio mais esportivo da categoria. Com motor 350 TSI de 231 cv e câmbio automático DSG de 7 velocidades.",
+            "imagem": "https://assets.volkswagen.com/is/image/volkswagenag/Jetta_banner_3?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE5MjAmaGVpPTEwODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmM2E1Nw==",
+            "link":"https://www.vw.com.br/pt/carros/Jetta.html"
+        
+        },
+
+        {
+            "titulo": "Silverado",
+            "marca": "Chevrolet",
+            "preco": "529.900,00",
+            "descricao": "Você chegou ao topo, e a nova Chevrolet Silverado é a sua recompensa. Capacidade, sofisticação e tecnologia dão o tom para esta picape, que chega ao Brasil na versão High Country e com configurações exclusivas.",
+            "imagem": "https://cdn.motor1.com/images/mgl/E6PMge/s1/chevrolet-silverado-high-country-2024---brasil.jpg",
+            "link":"https://www.chevrolet.com.br/picapes/nova-silverado-2024"
+        
+        },
+
+        {
+            "titulo": "SW4",
+            "marca": "Toyota",
+            "preco": "379.990,00",
+            "descricao": "Assinatura exclusiva em linhas cromadas e acabamento interno refinado tornam o SW4 sinônimo de elegância.",
+            "imagem": "https://media.toyota.com.ar/7979bddd-1c64-4635-81a1-ef1eee1de5c2.jpeg",
+            "link":"https://www.toyota.com.br/modelos/sw4"
+        
+        },
+        {
+            "titulo": "Hilux",
+            "marca": "Toyota",
+            "preco": "242.590,00",
+            "descricao": "ENCARE DESAFIOS COM A GIGANTE MAIS BRUTA DA CATEGORIA! A proposta de produto multiuso, enraizada por um DNA essencialmente dotado de robustez.",
+            "imagem": "https://media.toyota.com.br/53998134-9972-44a7-8ae9-86039f46446f.png",
+            "link":"https://www.toyota.com.br/modelos/hilux-cabine-dupla"
+        },
+        {
+            "titulo": "BMW M2",
+            "marca": "BMW",
+            "preco": "620.950,00",
+            "descricao": "Desempenho esportivo e agilidade impressionate. Graças aos valores de desempenho extraordinários você tera uma sensação excluisva",
+            "imagem": "https://s2-autoesporte.glbimg.com/Qy0zGG9rs2TINfhOXZ18jRFf4oA=/0x0:620x350/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/S/l/BftvNYQa6ZBccwmWQVjQ/2015-10-14-bmw-m2-03.jpg",
+            "link":"https://www.bmw.com.br/pt/all-models/m-series/m2-coupe/2022/bmw-2-series-coupe-m-automobiles-overview.html#destaques-tecnologicos"
+        },
+        {
+            "titulo": "Pajero Sport",
+            "marca": "Mitsubishi Motors",
+            "preco": "339.990,00",
+            "descricao": "Prepare-se para seguir rumo a um novo norte. E para encarar esse desafio, conte com uma nova lenda. Um SUV que veio para te reconectar com o mundo 4x4. Para o novo Pajero Sport o que antes era desafio, já virou conquista.",
+            "imagem": "https://motorshow.com.br/wp-content/uploads/sites/2/2022/09/15-mitsubishi-pajero-sport-hpe-diesel.jpg",
+            "link":"https://www.mitsubishimotors.com.br/suv-e-crossovers/pajero-sport"
+
+        },
+        {
+            "titulo": "AMG G 63",
+            "marca": "Mercedes-Benz",
+            "preco": "1.164.432,00",
+            "descricao": "No interior do Mercedes-AMG G 63, encontra mais espaço do que nunca e as melhores condições para desfrutar da AMG Driving Performance com todos os seus sentidos. Desenvolvido nas pistas de corridas. Construído para as montanhas.",
+            "imagem": "https://s2-autoesporte.glbimg.com/aYrAUQtu8cgIBiuMpkDpzwSFf6g=/0x0:3405x2231/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2023/e/K/gXypImRaGa4sNzDHDtkA/img-6135.jpg",
+            "link":"https://www2.mercedes-benz.com.br/passengercars/models/suv/g-class/amg.html"
+        },
+        {
+            "titulo": "Civic Si",
+            "marca": "Honda",
+            "preco": "159.900,00",
+            "descricao": "O Honda Civic Si é um dos sedãs esportivos mais icônicos, com um motor 1.5 turbo de 208 cv e câmbio manual de 6 marchas.",
+            "imagem": "https://i0.statig.com.br/bancodeimagens/86/7u/4c/867u4c54kak03r60oszvhmsay.jpg",
+            "link": "https://automobiles.honda.com/civic-si-sedan"
+        },
+
+        {
+            "titulo": "320i",
+            "marca": "BMW",
+            "preco": "255.950,00",
+            "descricao": "O BMW 320i oferece uma combinação perfeita de luxo, desempenho e tecnologia, com um motor turbo de 2.0 litros e tração traseira.",
+            "imagem": "https://s2-autoesporte.glbimg.com/G-e-3dieWgdLdNrU8JIYk-iAVl8=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2022/B/M/0JaPM9QCqy2tVAABUUeQ/2022-bmw-3er-limousine-2-.jpg",
+            "link": "https://www.bmw.com.br/pt/all-models/3-series/sedan/2022/bmw-3-series-sedan-overview.html"
+        },
+
+        {
+            "titulo": "Corolla",
+            "marca": "Toyota",
+            "preco": "145.990,00",
+            "descricao": "O Toyota Corolla é um dos sedãs mais vendidos do mundo, conhecido por sua confiabilidade, economia de combustível e tecnologia avançada.",
+            "imagem": "https://fotos-jornaldocarro-estadao.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/07/27132742/toyota-corolla-hybrid-20242.jpg",
+            "link": "https://www.toyota.com.br/modelos/corolla"
+        },
+
+        {
+            "titulo": "Golf GTI",
+            "marca": "WolksWagen",
+            "preco": "178.990,00",
+            "descricao": "O Golf GTI é um ícone dos hot hatches, oferecendo um equilíbrio perfeito entre desempenho, conforto e tecnologia.",
+            "imagem": "https://www.automaistv.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=1200&height=675&format=.jpg&quality=91&imagick=uploads.automaistv.com.br/2024/02/VW-Golf-GTI-4._edited.jpg",
+            "link": "https://www.vw.com.br/pt/carros/golf-gti.html"
+        },
+        {
+            "titulo": "Cruze",
+            "marca": "Chevrolet",
+            "preco": "124.290,00",
+            "descricao": "O Chevrolet Cruze é um sedã que se destaca pelo design moderno, segurança e alta tecnologia.",
+            "imagem": "https://www.chevrolet.com.br/content/dam/chevrolet/mercosur/brazil/portuguese/index/cars/2021-cruze-premier/mov/03-images/asset-galeria-06.jpg?imwidth=1200",
+            "link": "https://www.chevrolet.com.br/carros/cruze"
+        },
+        {
+            "titulo": "X1",
+            "marca": "BMW",
+            "preco": "312.950,00",
+            "descricao": "O BMW X1 é um SUV compacto que oferece desempenho dinâmico, espaço interno e tecnologia de ponta.",
+            "imagem": "https://fotos-jornaldocarro-estadao.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/03/29075135/P90495229_highRes_bmw-x1-02-2023-scaled.jpg",
+            "link": "https://www.bmw.com.br/pt/all-models/x-series/x1/2022/bmw-x1-overview.html"
+        },
+        {
+            "titulo": "Outlander",
+            "marca": "Mitsubishi Motors",
+            "preco": "246.990,00",
+            "descricao": "O Mitsubishi Outlander é um SUV que combina conforto, segurança e performance off-road.",
+            "imagem": "https://cdn.motor1.com/images/mgl/1m0Aw/s1/mitsubishi-outlander-evolution-rendering.jpg",
+            "link": "https://www.mitsubishimotors.com.br/suv-e-crossovers/outlander"
+        },
+        {
+            "titulo": "Accord",
+            "marca": "Honda",
+            "preco": "257.400,00",
+            "descricao": "O Honda Accord é um sedã de luxo com alta tecnologia, desempenho e conforto, perfeito para quem busca sofisticação.",
+            "imagem": "https://cdn.motor1.com/images/mgl/ALOj2/s1/2018-honda-accord-first-drive.jpg",
+            "link": "https://www.honda.com.br/automoveis/accord"
+        }
+
+     
+    ]
+}
